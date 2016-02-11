@@ -9,3 +9,7 @@ Buy these.
 ## Policies
 
 Don't do these.
+
+## Schedule
+
+Week 1 and what not
